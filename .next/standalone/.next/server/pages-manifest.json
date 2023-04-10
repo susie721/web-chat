@@ -1,0 +1,20 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/chat": "pages/api/chat.js",
+  "/api/responsess": "pages/api/responsess.js",
+  "/api/[...path]": "pages/api/[...path].js",
+  "/api/events": "pages/api/events.js",
+  "/api/user": "pages/api/user.js",
+  "/api/web/login": "pages/api/web/login.js",
+  "/api/web/chat/completions": "pages/api/web/chat/completions.js",
+  "/_error": "pages/_error.js",
+  "/login": "pages/login.js",
+  "/": "pages/index.js",
+  "/chat/record": "pages/chat/record.js",
+  "/chat": "pages/chat.js",
+  "/zh/404": "pages/zh/404.html",
+  "/en/404": "pages/en/404.html",
+  "/zh/500": "pages/zh/500.html",
+  "/en/500": "pages/en/500.html"
+}
